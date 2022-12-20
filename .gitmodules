@@ -40,3 +40,9 @@
 [submodule "SPRINT 9. Composition. Context. useMemo, useCallback/task-usecontext-usecallback-iqura9"]
 	path = SPRINT 9. Composition. Context. useMemo, useCallback/task-usecontext-usecallback-iqura9
 	url = https://github.com/React-09-1-usecontext-usecallback/task-usecontext-usecallback-iqura9
+[submodule "SPRINT 10. Redux in React/task1-ui-integration-iqura9"]
+	path = SPRINT 10. Redux in React/task1-ui-integration-iqura9
+	url = https://github.com/React-10-1-redux/task1-ui-integration-iqura9
+[submodule "SPRINT 10. Redux in React/task2-react-redux-iqura9"]
+	path = SPRINT 10. Redux in React/task2-react-redux-iqura9
+	url = https://github.com/React-10-2-redux/task2-react-redux-iqura9
