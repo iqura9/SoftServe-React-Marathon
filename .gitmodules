@@ -37,3 +37,6 @@
 [submodule "SPRINT 8. Storage(localsession), Web workers, Web socket/task2-websockets-iqura9"]
 	path = SPRINT 8. Storage(localsession), Web workers, Web socket/task2-websockets-iqura9
 	url = https://github.com/React-08-2-socket/task2-websockets-iqura9
+[submodule "SPRINT 9. Composition. Context. useMemo, useCallback/task-usecontext-usecallback-iqura9"]
+	path = SPRINT 9. Composition. Context. useMemo, useCallback/task-usecontext-usecallback-iqura9
+	url = https://github.com/React-09-1-usecontext-usecallback/task-usecontext-usecallback-iqura9
