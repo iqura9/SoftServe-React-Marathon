@@ -31,3 +31,9 @@
 [submodule "SPRINT 7. Virtual DOM, Hooks/task2-react-hooks-effects-iqura9"]
 	path = SPRINT 7. Virtual DOM, Hooks/task2-react-hooks-effects-iqura9
 	url = https://github.com/React-07-2-hooks-useeffect/task2-react-hooks-effects-iqura9
+[submodule "SPRINT 8. Storage(localsession), Web workers, Web socket/task1-webworkers-iqura9"]
+	path = SPRINT 8. Storage(localsession), Web workers, Web socket/task1-webworkers-iqura9
+	url = https://github.com/React-08-1-worker/task1-webworkers-iqura9
+[submodule "SPRINT 8. Storage(localsession), Web workers, Web socket/task2-websockets-iqura9"]
+	path = SPRINT 8. Storage(localsession), Web workers, Web socket/task2-websockets-iqura9
+	url = https://github.com/React-08-2-socket/task2-websockets-iqura9
