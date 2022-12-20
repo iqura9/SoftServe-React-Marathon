@@ -46,3 +46,6 @@
 [submodule "SPRINT 10. Redux in React/task2-react-redux-iqura9"]
 	path = SPRINT 10. Redux in React/task2-react-redux-iqura9
 	url = https://github.com/React-10-2-redux/task2-react-redux-iqura9
+[submodule "SPRINT 11. Redux ToolKit. Extending Redux/react-11-redux-toolkit-iqura9"]
+	path = SPRINT 11. Redux ToolKit. Extending Redux/react-11-redux-toolkit-iqura9
+	url = https://github.com/React-11-Redux-Toolkit/react-11-redux-toolkit-iqura9
