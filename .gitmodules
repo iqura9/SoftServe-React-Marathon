@@ -25,3 +25,9 @@
 [submodule "SPRINT 5. React - Lifecycle & Binding Event Handlers/task2-syntheticevent-iqura9"]
 	path = SPRINT 5. React - Lifecycle & Binding Event Handlers/task2-syntheticevent-iqura9
 	url = https://github.com/React-05-2/task2-syntheticevent-iqura9
+[submodule "SPRINT 7. Virtual DOM, Hooks/task1-react-hooks-state-iqura9"]
+	path = SPRINT 7. Virtual DOM, Hooks/task1-react-hooks-state-iqura9
+	url = https://github.com/React-07-1-hooks-usestate/task1-react-hooks-state-iqura9
+[submodule "SPRINT 7. Virtual DOM, Hooks/task2-react-hooks-effects-iqura9"]
+	path = SPRINT 7. Virtual DOM, Hooks/task2-react-hooks-effects-iqura9
+	url = https://github.com/React-07-2-hooks-useeffect/task2-react-hooks-effects-iqura9
