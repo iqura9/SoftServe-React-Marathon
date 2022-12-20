@@ -49,3 +49,15 @@
 [submodule "SPRINT 11. Redux ToolKit. Extending Redux/react-11-redux-toolkit-iqura9"]
 	path = SPRINT 11. Redux ToolKit. Extending Redux/react-11-redux-toolkit-iqura9
 	url = https://github.com/React-11-Redux-Toolkit/react-11-redux-toolkit-iqura9
+[submodule "SPRINT 12. Tools/tools-npm-iqura9"]
+	path = SPRINT 12. Tools/tools-npm-iqura9
+	url = https://github.com/React-12-npm/tools-npm-iqura9
+[submodule "SPRINT 12. Tools/tools-webpack-iqura9"]
+	path = SPRINT 12. Tools/tools-webpack-iqura9
+	url = https://github.com/React-12-webpack/tools-webpack-iqura9
+[submodule "SPRINT 12. Tools/tools-babel-iqura9"]
+	path = SPRINT 12. Tools/tools-babel-iqura9
+	url = https://github.com/React-12-babel/tools-babel-iqura9
+[submodule "SPRINT 12. Tools/tools-eslint-iqura9"]
+	path = SPRINT 12. Tools/tools-eslint-iqura9
+	url = https://github.com/React-12-eslint/tools-eslint-iqura9
