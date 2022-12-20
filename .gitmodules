@@ -64,3 +64,9 @@
 [submodule "SPRINT 13. Router/task-react-routes-iqura9"]
 	path = SPRINT 13. Router/task-react-routes-iqura9
 	url = https://github.com/React-13-1-router/task-react-routes-iqura9
+[submodule "SPRINT 14. Node, AJAX/task1-node-team-mk-4"]
+	path = SPRINT 14. Node, AJAX/task1-node-team-mk-4
+	url = https://github.com/React-14-node-ajax/task1-node-team-mk-4
+[submodule "SPRINT 14. Node, AJAX/task2-ajax-team-mk-4-2"]
+	path = SPRINT 14. Node, AJAX/task2-ajax-team-mk-4-2
+	url = https://github.com/React-14-node-ajax/task2-ajax-team-mk-4-2
