@@ -70,3 +70,9 @@
 [submodule "SPRINT 14. Node, AJAX/task2-ajax-team-mk-4-2"]
 	path = SPRINT 14. Node, AJAX/task2-ajax-team-mk-4-2
 	url = https://github.com/React-14-node-ajax/task2-ajax-team-mk-4-2
+[submodule "SPRINT 15. Refs, Higher-Order Component, DefaultProps/task-1-ref-iqura9"]
+	path = SPRINT 15. Refs, Higher-Order Component, DefaultProps/task-1-ref-iqura9
+	url = https://github.com/React-15-1-refs/task-1-ref-iqura9
+[submodule "SPRINT 15. Refs, Higher-Order Component, DefaultProps/task-2-hocs-iqura9"]
+	path = SPRINT 15. Refs, Higher-Order Component, DefaultProps/task-2-hocs-iqura9
+	url = https://github.com/React-15-2-hocs/task-2-hocs-iqura9
