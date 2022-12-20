@@ -61,3 +61,6 @@
 [submodule "SPRINT 12. Tools/tools-eslint-iqura9"]
 	path = SPRINT 12. Tools/tools-eslint-iqura9
 	url = https://github.com/React-12-eslint/tools-eslint-iqura9
+[submodule "SPRINT 13. Router/task-react-routes-iqura9"]
+	path = SPRINT 13. Router/task-react-routes-iqura9
+	url = https://github.com/React-13-1-router/task-react-routes-iqura9
