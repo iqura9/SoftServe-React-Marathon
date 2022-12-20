@@ -1,0 +1,12 @@
+[submodule "task1-jsx-iqura9"]
+	path = task1-jsx-iqura9
+	url = https://github.com/react-sprint1/task1-jsx-iqura9
+[submodule "task2-jsx-iqura9"]
+	path = task2-jsx-iqura9
+	url = https://github.com/react-sprint1/task2-jsx-iqura9
+[submodule "task3-style-iqura9"]
+	path = task3-style-iqura9
+	url = https://github.com/react-sprint1/task3-style-iqura9
+[submodule "task4-css-modules-iqura9"]
+	path = task4-css-modules-iqura9
+	url = https://github.com/react-sprint1/task4-css-modules-iqura9
