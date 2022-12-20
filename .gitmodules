@@ -82,3 +82,6 @@
 [submodule "SPRINT 16. Tests/react-testing-library-team-team-mk2-4"]
 	path = SPRINT 16. Tests/react-testing-library-team-team-mk2-4
 	url = https://github.com/React-16-2-testing-library/react-testing-library-team-team-mk2-4
+[submodule "SPRINT 17 Material UI/material-ui-team-mk-2"]
+	path = SPRINT 17 Material UI/material-ui-team-mk-2
+	url = https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-mk-2
