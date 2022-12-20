@@ -19,3 +19,9 @@
 [submodule "SPRINT 3. React - Key, State, Props, Events/task3-react-state-and-events-iqura9"]
 	path = SPRINT 3. React - Key, State, Props, Events/task3-react-state-and-events-iqura9
 	url = https://github.com/React-03-3/task3-react-state-and-events-iqura9
+[submodule "SPRINT 5. React - Lifecycle & Binding Event Handlers/task1-lifecycle-iqura9"]
+	path = SPRINT 5. React - Lifecycle & Binding Event Handlers/task1-lifecycle-iqura9
+	url = https://github.com/React-05-1/task1-lifecycle-iqura9
+[submodule "SPRINT 5. React - Lifecycle & Binding Event Handlers/task2-syntheticevent-iqura9"]
+	path = SPRINT 5. React - Lifecycle & Binding Event Handlers/task2-syntheticevent-iqura9
+	url = https://github.com/React-05-2/task2-syntheticevent-iqura9
