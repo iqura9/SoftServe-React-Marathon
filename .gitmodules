@@ -10,3 +10,12 @@
 [submodule "SPRINT 1. JSX, Styles. SCRUM theory/task4-css-modules-iqura9"]
 	path = SPRINT 1. JSX, Styles. SCRUM theory/task4-css-modules-iqura9
 	url = https://github.com/react-sprint1/task4-css-modules-iqura9
+[submodule "SPRINT 3. React - Key, State, Props, Events/task1-react-keys-iqura9"]
+	path = SPRINT 3. React - Key, State, Props, Events/task1-react-keys-iqura9
+	url = https://github.com/React-03-1/task1-react-keys-iqura9
+[submodule "SPRINT 3. React - Key, State, Props, Events/task2-react-props-iqura9"]
+	path = SPRINT 3. React - Key, State, Props, Events/task2-react-props-iqura9
+	url = https://github.com/React-03-2/task2-react-props-iqura9
+[submodule "SPRINT 3. React - Key, State, Props, Events/task3-react-state-and-events-iqura9"]
+	path = SPRINT 3. React - Key, State, Props, Events/task3-react-state-and-events-iqura9
+	url = https://github.com/React-03-3/task3-react-state-and-events-iqura9
