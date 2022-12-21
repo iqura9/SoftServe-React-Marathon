@@ -85,3 +85,9 @@
 [submodule "SPRINT 17 Material UI/material-ui-team-mk-2"]
 	path = SPRINT 17 Material UI/material-ui-team-mk-2
 	url = https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-mk-2
+[submodule "SPRINT 18. Error Boundaries. Custom hooks/custom-hooks-task-iqura9"]
+	path = SPRINT 18. Error Boundaries. Custom hooks/custom-hooks-task-iqura9
+	url = https://github.com/React-18-1-custom-hooks/custom-hooks-task-iqura9
+[submodule "SPRINT 18. Error Boundaries. Custom hooks/error-boundaries-task-iqura9"]
+	path = SPRINT 18. Error Boundaries. Custom hooks/error-boundaries-task-iqura9
+	url = https://github.com/React-18-2-error-boundary/error-boundaries-task-iqura9
